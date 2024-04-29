@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rekrien
 - 👀 I’m interested in learning, improving and getting my first dev job
-- 🌱 I’m currently learning Java and Javascript
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on all kinds of work that could help me improve
 - 📫 How to reach me ricardo.rod.barreiros@gmail.com
 - 😄 Pronouns: he/him
