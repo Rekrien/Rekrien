@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Rekrien
-- 👀 I’m interested in learning, improving and getting my first Back-end dev job or data science.
-- 🌱 I’m currently learning C++, Java for back-end and R, Python(Numpy, Pandas) for data science.
 - 💞️ I’m looking to collaborate on all kinds of work that could help me improve
 - 📫 How to reach me ricardo.rod000@gmail.com
 - 😄 Pronouns: he/him
